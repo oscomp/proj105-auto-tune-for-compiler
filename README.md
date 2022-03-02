@@ -32,6 +32,13 @@ openEuler 是华为主导，社区开源的一个Linux的发行版，所有开�
 - 如学生参加了多个项目，参赛学生选择一个自己参加的项目参与评奖
 - 请遵循“2022全国大学生操作系统比赛”的章程和技术方案要求
 
+### 项目导师
+
+吴峰光
+
+- gitee [benniaobufeijiushiji](https://gitee.com/benniaobufeijiushiji)
+- email linda7@huawei.com
+
 ### 难度
 
 较大
